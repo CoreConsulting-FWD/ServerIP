@@ -1,0 +1,9 @@
+{
+	"appServerIP_Tomcat": [""],
+	"appServerIP_Jboss": [""],
+  "appServerIP_Apache": ["192.168.88.108"],
+  "appServerPort": ["8888,8887"],
+	"dbServerIP": "",
+	"dbServerPort": "",
+	"dbInstance": ""
+}
