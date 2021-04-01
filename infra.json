@@ -1,0 +1,7 @@
+{
+  	"appServerIP_Tomcat": ["10.23.62.62"],
+	"appServerIP_Jboss": ["10.23.62.62"],
+	"dbServerIP": "10.23.63.22",
+	"dbServerPort": "48000",
+    "dbInstance": "NBOnline"
+}
